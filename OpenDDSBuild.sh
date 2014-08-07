@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# from http://www.dre.vanderbilt.edu/~schmidt/DOC_ROOT/CIAO/connectors/dds4ccm/DDS4CCM-INSTALL.html
 export DOC_ROOT=$(pwd)
 export ACE_ROOT=$DOC_ROOT/ACE
 export TAO_ROOT=$DOC_ROOT/TAO
